@@ -1,0 +1,27 @@
+docs/src/content/docs/primitives/schedule.mdx
+  s_df4f4ba3ed2785::t_e155751ac636d7 26,77,80
+packages/durability/README.md
+  s_df4f4ba3ed2785::t_b27208aeddb5ba 525,528
+packages/durability/src/schedule/index.test.ts
+  s_df4f4ba3ed2785::t_e2590707a62c70 792-1047
+packages/durability/src/schedule/index.ts
+  s_df4f4ba3ed2785::t_5869fb0ee8e75b 192-193,486-524
+.changeset/schedule-reschedule.md
+  s_df4f4ba3ed2785::t_62d196932d8abf 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "558bbb2cc4a429e9e62d1e8642ce92cb590e08c1",
+  "prompts": {},
+  "sessions": {
+    "s_df4f4ba3ed2785": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "42c4dfa1-084a-4398-8adc-1a405afeb629",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Caio Nogueira <caio@cloudflare.com>"
+    }
+  }
+}
